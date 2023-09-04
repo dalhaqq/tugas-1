@@ -11,5 +11,6 @@ class Mahasiswa {
 }
 
 void main() {
-  var mhs = Mahasiswa("H1D020068", "Abdalhaqq Muhammad Saih", 2002);
+  var mhs = Mahasiswa("H1D020069", "Romi", 2000);
+  mhs.perkenalan();
 }
